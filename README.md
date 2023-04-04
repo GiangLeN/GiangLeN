@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Place holder
 
 [](https://komarev.com/ghpvc/?username=GiangLeN)
+
+![Visitor Count](https://profile-counter.glitch.me/{GiangLeN}/count.svg)
