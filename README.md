@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Place holder
 
-[Visit](https://komarev.com/ghpvc/?username=GiangLeN)
+![](https://komarev.com/ghpvc/?username=GiangLeN&color=green)
 
 ![Visitor Count](https://profile-counter.glitch.me/{GiangLeN}/count.svg)
