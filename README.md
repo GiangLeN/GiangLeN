@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 Place holder
 
+Automator of pipelines
+Analyser of Sequencers
+Annotator of Functions
+
 ![](https://komarev.com/ghpvc/?username=GiangLeN&color=green)
 
 
