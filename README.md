@@ -54,10 +54,7 @@ As a strong advocate for 📜 open source, ☁️ cloud computing, 🆕 innovati
 
    <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiangLeN&hide_border=true&theme=chartreuse-dark" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GiangLeN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=chartreuse-dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangLeN&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GiangLeN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=chartreuse-dark" /> <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiangLeN&hide_border=true&theme=chartreuse-dark" />
     </p>
 
 </details>
