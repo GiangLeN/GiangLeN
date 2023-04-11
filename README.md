@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Giang Le :octocat:, a bioinformatician 🧑‍🔬 with a passion for studying 🔍 genomes 🧬.
-Previously, I have worked on 🔬 gut metagenomes 💩 of springtails 🐛, termites 🐜, goats 🐐, infants 👶, and humans 🙍‍♂️🙍‍♀️ to understand the role of gut bacteria 🧫🦠 in the hosts.  
+I'm Giang Le, a bioinformatician :octocat: with a passion for studying genomes 🧬.
+Previously, I have worked on 🔬 gut metagenomes 💩 of springtails, termites, goats 🐐, infants 👶, and humans 🙍‍♂️🙍‍♀️ to understand the role of gut bacteria 🦠 in the hosts.  
 
 
-I love ❤️ building 🏗️, improving and optimizing pipelines 🪄💾.
-Of course, processing 🖥️, analyzing 🧮, drawing 🎨 💹 and automating 🤖 are all part of the fun!  
+I love building 🏗️, improving and optimizing pipelines :tube: .
+Of course, processing 🖥️, analyzing 🧮, drawing 💹 and automating 🤖 are all part of the fun!  
 
 
 As a strong advocate for 📜 open source, ☁️ cloud computing, 🆕 innovation, and automation 🤖, I am always looking for ways to improve my work and share my knowledge with others 🤝.  
 
 
-- 🔭 Currently, I am researching 🔍 monkey 🐒🐵 genomes 🧬 to gain insights into the immune system 🩸 to improve vaccine 💉 development.
+- 🔭 Currently, I am researching 🔍 monkey 🐵 genomes 🧬 to gain insights into the immune system 🩸 to improve vaccine 💉 development.
 - 🌱 I am learning about Immunology 🩸
 - 📚 Learning/Using tools: Python, R, Github and Snakemake.
-- 💬 Ask me about anything [here](https://github.com/GiangLeN/GiangLeN/issues). 📸 🎥 📹 🎮
+- 💬 Ask me about anything [here](https://github.com/GiangLeN/GiangLeN/issues). 📸 🎥
 - ⚡ Fun fact: You can find me at Stackoverflow if you have questions about Snakemake.
 
 <img height="137px"
